@@ -1,0 +1,1 @@
+> parallel task queue library where clinet gets and porcesses and server insure in-order delivery
